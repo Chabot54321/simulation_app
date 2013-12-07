@@ -1,0 +1,5 @@
+name: Simulation_app
+description: A sample Polymer application
+transformers:
+- polymer:
+    entry_points: web/simulation_app.html
